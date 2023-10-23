@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+Body
+{
+ background-image: url('cmr1.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed; 
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color:black;
+}
